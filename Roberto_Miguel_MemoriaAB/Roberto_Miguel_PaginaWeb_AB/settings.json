@@ -1,0 +1,5 @@
+{
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "php.validate.executablePath": ""
+}
